@@ -1,2 +1,99 @@
-# us-airline-performance-analysis
-Interactive Tableau dashboard analysing 3 million US domestic airline flights (2019–2023) with insights into airline, airport, delay cause and route performance.
+# US Airline Performance Analysis (2019–2023)
+
+## ✈️ Overview
+
+This project analyses over 3 million domestic US airline flights between January 2019 and December 2023 using Tableau.
+
+The objective is to identify operational performance trends across airlines, airports and flight routes while investigating the major causes of delays and cancellations.
+
+The project was developed as part of my Business Analytics portfolio to demonstrate dashboard design, KPI development and interactive data visualisation using Tableau.
+
+## 🔗 Interactive Dashboard
+
+View the full interactive Tableau dashboard here: https://public.tableau.com/app/profile/andy.nguyen4651/viz/USAirlinePerformanceAnalysis20192023/Home
+
+## ❓ Business Questions
+
+This dashboard answers questions such as:
+
+### Overall Performance
+- How many flights operated between 2019 and 2023?
+- How did COVID-19 affect flight volume?
+- What percentage of flights arrived on time?
+- What are the primary causes of delays?
+
+### Airline Performance
+- Which airlines have the highest average delays?
+- Which airlines experience the highest cancellation rates?
+- Which airlines consistently outperform competitors?
+
+### Airport Performance
+- Which airports experience the longest delays?
+- Which airports record the highest cancellation rates?
+- Are delay problems concentrated at major hubs?
+
+### Delay Cause Analysis
+- Which delay category contributes the most delay minutes?
+- How have delay causes changed over time?
+- Which airlines and airports are most affected by each delay type?
+
+### Route Performance
+- Which routes carry the highest passenger traffic?
+- Which busy routes experience the worst delays?
+- Which delay causes dominate high-volume routes?
+
+## 💾 Dataset
+
+- Source: https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023 
+- Time Period: January 2019 – August 2023
+
+### Size: 3+ million domestic flights
+
+- 5 dashboards
+- 20+ interactive visualisations
+- Multiple calculated fields, KPIs and parameters
+
+The raw dataset exceeds GitHub's file size limit and is therefore not included in this repository. The original data can be downloaded directly from the Bureau of Transportation Statistics.
+
+## ⚙️ Tools
+- Tableau Desktop (Data Visualisation)
+- Python (Data Preparation and Validation)
+
+## 🎯 Dashboard Overview
+
+### Dashboard 1 — Overall Airline Performance
+
+Provides an executive overview of the US aviation industry: Flight volume trend, Delay category distribution, Delay cause breakdown, Operational KPIs
+
+### Dashboard 2 — Airline Performance
+
+Compares airline operational performance using: Delay ranking, Cancellation ranking, Delay vs cancellation matrix, Best and worst airline KPIs
+
+### Dashboard 3 — Airport Performance
+
+Analyses airport operational efficiency through: Airport performance map, Delay ranking, Cancellation ranking, Airport KPIs
+
+### Dashboard 4 — Delay Cause Analysis
+
+Explores operational delay sources using: Delay cause trend, Delay cause composition, Airport heatmap, Delay breakdow
+
+### Dashboard 5 — Route Performance
+
+Examines performance across major US routes: Route performance scatterplot, Highest traffic routes, Worst-performing busy routes, Delay cause composition by route
+
+## 🔎 Key Findings
+
+- Approximately 64.5% of flights arrived on time or early.
+- Flight activity declined sharply during COVID-19 before recovering to near pre-pandemic levels.
+- Late Aircraft and Carrier Delay accounted for most delay minutes.
+- Allegiant Air recorded the highest average arrival delay among major airlines.
+- Smaller regional airports experienced the greatest delays and cancellation rates.
+- Major routes such as ORD → LGA combined high traffic volume with above-average delays, making them priority candidates for operational improvement.
+
+## 🔮 Future Improvements
+
+- Delay prediction using Machine Learning
+- Airport network analysis
+- Seasonal forecasting
+- Interactive route map
+- Airline benchmarking over longer time periods
