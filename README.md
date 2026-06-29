@@ -1,11 +1,10 @@
 # US Airline Performance Analysis (2019–2023)
 
-![Home Dashboard](Dashboard0-Home.png)
-
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Business Analytics](https://img.shields.io/badge/Business-Analytics-blue?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data-Visualization-green?style=for-the-badge)
 ![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-orange?style=for-the-badge)
+![3M Flights](https://img.shields.io/badge/Dataset-3M_Flights-red?style=for-the-badge)
 
 ## ✈️ Overview
 
