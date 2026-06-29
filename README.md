@@ -1,5 +1,10 @@
 # US Airline Performance Analysis (2019–2023)
 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Business Analytics](https://img.shields.io/badge/Business-Analytics-blue?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-green?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-orange?style=for-the-badge)
+
 ## ✈️ Overview
 
 This project analyses over 3 million domestic US airline flights between January 2019 and December 2023 using Tableau.
