@@ -17,7 +17,9 @@ The project was developed as part of my Business Analytics portfolio to demonstr
 
 ## 🔗 Interactive Dashboard
 
-View the full interactive Tableau dashboard here: https://public.tableau.com/app/profile/andy.nguyen4651/viz/USAirlinePerformanceAnalysis20192023/Home
+View the full interactive Tableau dashboard here:
+
+[![View on Tableau Public](https://img.shields.io/badge/View_on_Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)]([YOUR_TABLEAU_PUBLIC_LINK](https://public.tableau.com/app/profile/andy.nguyen4651/viz/USAirlinePerformanceAnalysis20192023/Home))
 
 ## ❓ Business Questions
 
