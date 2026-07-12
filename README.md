@@ -20,6 +20,8 @@ View the full interactive Tableau dashboard here:
 
 [![View on Tableau Public](https://img.shields.io/badge/View_on_Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/andy.nguyen4651/viz/USAirlinePerformanceAnalysis20192023/Home)
 
+<img width="1998" height="1598" alt="Dashboard0-Home" src="https://github.com/user-attachments/assets/6d650670-a118-4a8f-8e2d-217721179dde" />
+
 ## ❓ Business Questions
 
 This dashboard answers questions such as:
@@ -73,21 +75,31 @@ The raw dataset exceeds GitHub's file size limit and is therefore not included i
 
 Provides an executive overview of the US aviation industry: Flight volume trend, Delay category distribution, Delay cause breakdown, Operational KPIs
 
+<img width="1998" height="1598" alt="Dashboard1-Overview" src="https://github.com/user-attachments/assets/2ea110fa-9f8d-46a1-bd2e-047dcb993011" />
+
 ### Dashboard 2 — Airline Performance
 
 Compares airline operational performance using: Delay ranking, Cancellation ranking, Delay vs cancellation matrix, Best and worst airline KPIs
+
+<img width="1998" height="1598" alt="Dashboard2-Airline" src="https://github.com/user-attachments/assets/e7ea69bb-343e-4648-8dfa-1fb449e3c6d3" />
 
 ### Dashboard 3 — Airport Performance
 
 Analyses airport operational efficiency through: Airport performance map, Delay ranking, Cancellation ranking, Airport KPIs
 
+<img width="1998" height="1598" alt="Dashboard3-Airport" src="https://github.com/user-attachments/assets/c46f7fa5-6cf3-4c88-9880-addc21e4d7a1" />
+
 ### Dashboard 4 — Delay Cause Analysis
 
 Explores operational delay sources using: Delay cause trend, Delay cause composition, Airport heatmap, Delay breakdow
 
+<img width="1998" height="1598" alt="Dashboard4-Delay-Cause" src="https://github.com/user-attachments/assets/396fbf2b-9d41-4a3e-8157-b94750f942d4" />
+
 ### Dashboard 5 — Route Performance
 
 Examines performance across major US routes: Route performance scatterplot, Highest traffic routes, Worst-performing busy routes, Delay cause composition by route
+
+<img width="1998" height="1598" alt="Dashboard5-Route" src="https://github.com/user-attachments/assets/beb7dd75-5534-4460-9463-a270707acc9b" />
 
 ## 🔎 Key Findings
 
